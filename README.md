@@ -31,7 +31,7 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
+ [Endpoints](https://github.com/andresspaceconnect/test/wiki/Endpoints) - Most common endpoints
 ## Running the tests
 
 Explain how to run the automated tests for this system
